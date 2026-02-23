@@ -1,1 +1,9 @@
-.
+body{
+    background: url(voiture\ pour\ acceuil.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.menu{
+    
+}
