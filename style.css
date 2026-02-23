@@ -8,7 +8,13 @@ body{
     text-align: center;
 }
 a{
-    margin: 30px;
+    margin: 50px;
     font-size: 22px;
     color: red;
+}
+h1{
+    color: blue;
+}
+p{
+    color: blue;
 }
