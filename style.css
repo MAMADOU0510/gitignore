@@ -14,7 +14,17 @@ a{
 }
 h1{
     color: blue;
+    margin-left: 25%;
+    font-weight: bolder;
+    margin-top: -10%;
+
 }
 p{
-    color: blue;
+    color: white;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.textesurimage{
+    margin-top: 25%;
+    margin-left: 5%;
 }
